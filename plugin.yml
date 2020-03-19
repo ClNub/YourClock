@@ -1,0 +1,15 @@
+name: YourClock
+main: yotuba\YourClock\Main
+api: 3.11.6
+version: 1.0
+author: yotuba
+description: You can check what time is it
+
+commands:
+  now:
+    description: "[§eYC§r]§6現在時刻を確認することができます"
+    usage: /now
+
+  firsttime:
+    description: "[§eYC§r]§6最初にサーバーに入った月日を確認できます"
+    usage: /firsttime
