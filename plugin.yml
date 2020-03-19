@@ -1,7 +1,7 @@
 name: YourClock
 main: yotuba\YourClock\Main
 api: 3.11.6
-version: 1.0
+version: 1.1
 author: yotuba
 description: You can check what time is it
 
